@@ -1,4 +1,4 @@
-# `ai-lists`: AI-Powered List Generation
+# `ai-list`: AI-Powered List Generation
 
 ```bash
 npm install ai-list
