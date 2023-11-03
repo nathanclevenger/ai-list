@@ -1,6 +1,6 @@
 {
   "name": "ai-list",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "AI-Powered List Generation Tagged Template Literal (using OpenAI GPT4 / GPT3.5)",
   "main": "dist/index.js",
   "types": "dist/index.ts",
@@ -14,7 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/nathanclevenger/ai-functions.git"
   },
-  "keywords": ["ai","tagged","template","gpt","list"],
+  "keywords": [
+    "ai",
+    "tagged",
+    "template",
+    "gpt",
+    "list"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -27,6 +33,6 @@
   },
   "dependencies": {
     "openai": "^4.14.2",
-    "tagged-template-permutations": "^0.1.1"
+    "tagged-template-permutations": "^0.1.3"
   }
 }

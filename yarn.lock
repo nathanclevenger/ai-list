@@ -586,10 +586,10 @@ strip-literal@^1.0.1:
   dependencies:
     acorn "^8.10.0"
 
-tagged-template-permutations@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/tagged-template-permutations/-/tagged-template-permutations-0.1.1.tgz#7e29c380115d8cc7ade770d529a3ed66e8146680"
-  integrity sha512-pKIhcG3jPaI8H1TMqoJIShsBRKRXTxmNfA7NF/bhd3VISWmp3yEXSq9it0ZSh/sWjFdJ1bnYMLa51Zg+WmvOwQ==
+tagged-template-permutations@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/tagged-template-permutations/-/tagged-template-permutations-0.1.3.tgz#a32b335168123458c58956008e22597e7eca9743"
+  integrity sha512-kFyO4SL4YN3eZtLiL2n4cWIhfioGxZLddyHB3IWel037hGzipSWEMj3abdw34G7N5iPAxIvWfSTU9h3Rhbfp4A==
 
 tinybench@^2.5.0:
   version "2.5.1"
