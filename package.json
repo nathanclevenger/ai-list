@@ -1,0 +1,31 @@
+{
+  "name": "ai-list",
+  "version": "0.1.0",
+  "description": "AI-Powered List Generation (using OpenAI GPT4 / GPT3.5)",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "doppler run -- node index.js",
+    "test": "doppler run -- vitest --globals"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanclevenger/ai-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanclevenger/ai-functions/issues"
+  },
+  "homepage": "https://github.com/nathanclevenger/ai-functions#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "openai": "^4.14.2",
+    "tagged-template-permutations": "^0.1.1"
+  }
+}
