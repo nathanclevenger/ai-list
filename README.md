@@ -13,9 +13,9 @@ yarn add ai-list
 Then you can use it simply:
 
 ```javascript
-import { AIList } from 'ai-list'
+import { AI } from 'ai-list'
 
-const { list, gpt } = AIList({ apiKey = 'OPENAI_API_KEY' })
+const { list, gpt } = AI({ apiKey = 'OPENAI_API_KEY' })
 
 const things = await list`fun things to do in Miami`
 console.log(things)
